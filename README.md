@@ -7,8 +7,6 @@
 
 具体进群看视频
 
-远程控制一键安装命令
-cd && yum install git && git clone https://github.com/zyptmd/PUBGRADAR && cd PUBG-Radar-Onekey && chmod +x update.sh && ./update.sh
 
 网页打不开，不跟踪，运行此命令
 cd /root/pubg-leida;. restart.sh
