@@ -29,7 +29,7 @@ make
 make install
 
 git clone https://github.com/zyptmd/PUBGRADAR.git
-cd PUBG-Radar-Onekey/
+cd PUBGRADAR/
 npm i
 npm i -g pino
 npm install -g forever
